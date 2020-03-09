@@ -11,7 +11,7 @@ Here is workshop on QlikView from Business Intelligence course. I have been usin
 
 <b>General steps that I have followed:</b>
 
-<i>Step 1: 
+Step 1: 
 Extract files from ERP system
 
 Step 2:
@@ -25,6 +25,6 @@ Inventory balance sheet:
  - Second visual - display inventory balance using cyclic group (item number/item description, amount in stock, sort by amount in stock) 
 
 Product balance sheet:
- - Display top 5 products by total price (quantity * unit price). Same grouping was used as on the Inventory balance sheet (second visual).</i>
+ - Display top 5 products by total price (quantity * unit price). Same grouping was used as on the Inventory balance sheet (second visual).
 
 
